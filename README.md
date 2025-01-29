@@ -8,6 +8,9 @@ Django 🖤
 HTML/CSS/JavaScript 🌐
 Bootstrap & jQuery 🎨
 MySQL & SQLite 📦
+
+
+
 📚 About Me:
 I’m a full-stack developer with hands-on experience building web apps. My expertise lies in backend development using Django and frontend development using HTML, CSS, and JavaScript. I have a keen interest in learning new tools and frameworks to build scalable and robust applications.
 
